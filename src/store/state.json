@@ -1,0 +1,53 @@
+{"Product": [{
+	"id": 1,
+	"imageUrl": "https://www.learn-bulgarian.net/wp-content/uploads/2013/05/7-banana-bulgarian-vocabulary-banan.jpg",
+	"name": "Product name",
+	"count": 14,
+    "price": 150,
+	"size": {
+		"width": 200,
+		"height": 200
+	},
+	"weight": 200,
+	"comments": ["Comment", "Comment"]
+},
+{
+	"id": 1,
+	"imageUrl": "https://produits.bienmanger.com/38192-0w470h470_Organic_Passion_Fruit.jpg",
+	"name": "Product name",
+	"count": 4,
+    "price": 110,
+	"size": {
+		"width": 200,
+		"height": 200
+	},
+	"weight": 200,
+	"comments": ["Comment", "Comment"]
+},
+{
+	"id": 1,
+	"imageUrl": "https://produits.bienmanger.com/38192-0w470h470_Organic_Passion_Fruit.jpg",
+	"name": "Product name",
+	"count": 4,
+    "price": 1510,
+	"size": {
+		"width": 200,
+		"height": 200
+	},
+	"weight": 200,
+	"comments": ["Comment", "Comment"]
+}],
+"Comment": 
+	[{"id": 3,
+	"productId": 1,
+	"description": "some text here",
+	"date": "14:00 22.08.2021"
+},
+{"id": 3,
+	"productId": 1,
+	"description": "some text here",
+	"date": "14:00 22.08.2021"
+}]
+}
+
+
